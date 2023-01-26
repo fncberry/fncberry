@@ -1,16 +1,24 @@
-### Hi there 👋
+## FNCBERRY (김민서)
+#### ~~fullstack overflow developer~~
++ EDUCATION
+  + Korea Digital Media HighSchool WP 22nd (2023~)
 
-<!--
-**fncberry/fncberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
++ AWARDED
+  + Korea Olympiad in Informatics (KOI)
+  + Nexon Youth Programming Challange (NYPC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
++ SKILLS
+  + <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/> (Algorithm)
+  + <img src="https://img.shields.io/badge/-00599C?style=flat&logo=JavaScript&logoColor=white"/> (little)
+ 
+ 
++ CONTACT & PROFILES
+  + Email : mseo2454@gmail.com
+  + Discord : 김민서#8737
+  + Solved.ac : fncberry
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fncberry)](https://solved.ac/fncberry)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=fncberry)](https://solved.ac/fncberry)
