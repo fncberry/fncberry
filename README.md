@@ -10,8 +10,8 @@
 
 
 + SKILLS
-  + <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/> (Algorithm)
-  + <img src="https://img.shields.io/badge/-00599C?style=flat&logo=JavaScript&logoColor=white"/> (little)
+  + <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=skyblue"/> (Algorithm)
+  + <img src="https://img.shields.io/badge/-00599C?style=flat&logo=JavaScript&logoColor=yellow"/> (little)
  
  
 + CONTACT & PROFILES
