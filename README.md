@@ -5,8 +5,9 @@
 
 
 + AWARDED
-  + Korea Olympiad in Informatics (KOI)
-  + Nexon Youth Programming Challange (NYPC)
+  + Korea Olympiad in Informatics (KOI finals)
+  + Nexon Youth Programming Challange (NYPC T-shirts)
+  + 2023 Groom Highschool Algorithm Challange (GRAND AWARD)
 
 
 + SKILLS
