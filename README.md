@@ -11,8 +11,9 @@
 
 
 + SKILLS
-  + <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=skyblue"/> (Algorithm)
-  + <img src="https://img.shields.io/badge/-00599C?style=flat&logo=JavaScript&logoColor=yellow"/> (little)
+  + <img src="https://img.shields.io/badge/++-00599C?style=flat&logo=C&logoColor=skyblue"/> (Algorithm)
+  + <img src="https://img.shields.io/badge/-00599C?style=flat&logo=JavaScript&logoColor=yellow"/> (Web Programming)
+  + <img src="https://img.shields.io/badge/-00599C?style=flat&logo=Python&logoColor=red"/> (Little)
  
  
 + CONTACT & PROFILES
