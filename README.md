@@ -18,9 +18,8 @@
  
 + CONTACT & PROFILES
   + Email : mseo2454@gmail.com
-  + Discord : 김민서#0909
+  + Discord : 김민서#6117
   + Solved.ac : [fncberry](https://solved.ac/profile/fncberry)
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fncberry)](https://solved.ac/fncberry)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=fncberry)](https://solved.ac/fncberry)
