@@ -23,3 +23,4 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fncberry)](https://solved.ac/fncberry)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=fncberry&theme=dark)
