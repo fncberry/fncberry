@@ -9,7 +9,10 @@
   + Nexon Youth Programming Challange (NYPC T-shirts)
   + 2023 Groom Highschool Algorithm Challange (GRAND AWARD)
 
-
++ LEARNING
+  + Backend Programming
+  + Information security
+  
 + SKILLS
   + <img src="https://img.shields.io/badge/++-00599C?style=flat&logo=C&logoColor=skyblue"/> (Algorithm)
   + <img src="https://img.shields.io/badge/-00599C?style=flat&logo=JavaScript&logoColor=yellow"/> (Web Programming)
