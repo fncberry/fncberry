@@ -25,7 +25,8 @@
   + instagram_1 : [h.f.kms](https://www.instagram.com/h.f.kms/) (main account)
   + instagram_2 : [km.s.ecret](https://www.instagram.com/km.s.ecret/) (programming note)
   + instagram_3 : [upkmsa](https://www.instagram.com/upkmsa/) (digital photography)
-  + Solved.ac : [fncberry](https://solved.ac/profile/fncberry) (GOLD 1)
+  + Solved.ac : [fncberry](https://solved.ac/profile/fncberry) (PLATINUM 5)
+## Achieved PLATINUM at 2023.5.11 - 6:35pm
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fncberry)](https://solved.ac/fncberry)
