@@ -11,7 +11,7 @@
 
 + LEARNING
   + Backend Programming
-  + Information security
+  + Information Security
   
 + SKILLS
   + <img src="https://img.shields.io/badge/++-00599C?style=flat&logo=C&logoColor=skyblue"/> (Algorithm)
@@ -25,7 +25,7 @@
   + instagram_1 : [h.f.kms](https://www.instagram.com/h.f.kms/) (main account)
   + instagram_2 : [km.s.ecret](https://www.instagram.com/km.s.ecret/) (programming note)
   + instagram_3 : [upkmsa](https://www.instagram.com/upkmsa/) (digital photography)
-  + Solved.ac : [fncberry](https://solved.ac/profile/fncberry) (PLATINUM 5)
+  + Solved.ac : [fncberry](https://solved.ac/profile/fncberry) (PLATINUM 5 99%)
 ## Achieved PLATINUM at 2023.5.11 - 6:35pm
 
 
