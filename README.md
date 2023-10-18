@@ -25,12 +25,13 @@
   + <img src="https://img.shields.io/badge/-00599C?style=flat&logo=Python&logoColor=red"/> (Little)
  
 + CONTACT & ACCOUNTS
-  + Email : mseo2454@gmail.com
-  + Discord : [fncberry](https://discord.com/users/473786591870058518)
+  + email : mseo2454@gmail.com
+  + discord : [fncberry](https://discord.com/users/473786591870058518)
   + instagram_1 : [h.f.kms](https://www.instagram.com/h.f.kms/) (main account)
   + instagram_2 : [km.s.ecret](https://www.instagram.com/km.s.ecret/) (programming note)
   + instagram_3 : [upkmsa](https://www.instagram.com/upkmsa/) (digital photography)
-  + Solved.ac : [fncberry](https://solved.ac/profile/fncberry) (PLATINUM 3)
+  + solved.ac : [fncberry](https://solved.ac/profile/fncberry) (PLATINUM 3)
+  + dreamhack : [fncberry](https://dreamhack.io/users/39311) (newbie)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fncberry)](https://solved.ac/fncberry)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=fncberry&theme=dark)
