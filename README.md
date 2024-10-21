@@ -10,18 +10,19 @@
   + Korea Olympiad in Informatics 2023 (KOI finals)
   + Nexon Youth Programming Challange 2023 (NYPC T-shirts)
 
++ 2024
+  + Nexon Youth Programming Challange 2024 (NYPC T-shirts)
+  + CPS Festival (Creative Problem Solving Festival) (2nd GRADE - GOLD AWAWRD)
+  
 ### PROFILES
 + EDUCATION
   + Korea Digital Media HighSchool WP 22nd (2023~)
-
-+ LEARNING
-  + Information Security
-  + Artificial Intelligence
+  + ~~want to go~~ Seoul National University ~~(2026->)~~
 
 + SKILLS
-  + <img src="https://img.shields.io/badge/++-00599C?style=flat&logo=C&logoColor=skyblue"/> (Algorithm)
-  + <img src="https://img.shields.io/badge/-00599C?style=flat&logo=JavaScript&logoColor=yellow"/> (Web Programming)
-  + <img src="https://img.shields.io/badge/-00599C?style=flat&logo=Python&logoColor=red"/> (Little)
+  + <img src="https://img.shields.io/badge/-00599C?style=flat&logo=C&logoColor=skyblue"/> (Algorithm)
+  + <img src="https://img.shields.io/badge/-00599C?style=flat&logo=JavaScript&logoColor=yellow"/> (Web)
+  + <img src="https://img.shields.io/badge/-00599C?style=flat&logo=Python&logoColor=red"/> (AI)
  
 + CONTACT & ACCOUNTS
   + email : mseo2454@gmail.com
