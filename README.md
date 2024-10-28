@@ -12,7 +12,7 @@
 
 + 2024
   + Nexon Youth Programming Challange 2024 (NYPC T-shirts)
-  + CPS Festival (Creative Problem Solving Festival) (2nd GRADE - GOLD AWAWRD)
+  + CPS Festival (Creative Problem Solving Festival) (GOLD AWAWRD)
   
 ### PROFILES
 + EDUCATION
