@@ -16,8 +16,8 @@
   
 ### PROFILES
 + EDUCATION
-  + Korea Digital Media HighSchool WP 22nd (2023~)
-  + ~~want to go~~ Seoul National University ~~(2026->)~~
+  + Korea Digital Media HighSchool WP 22nd (2023~2025)
+  + Korea University (2026~)
 
 + SKILLS
   + <img src="https://img.shields.io/badge/-00599C?style=flat&logo=C&logoColor=skyblue"/> (Algorithm)
