@@ -13,6 +13,9 @@
 + 2024
   + Nexon Youth Programming Challange 2024 (NYPC T-shirts)
   + CPS Festival (Creative Problem Solving Festival) (GOLD AWARD)
+
++ 2026
+  + 대한민국학생창업주간 Reverse BMC 트랙 최우수상
   
 ### PROFILES
 + EDUCATION
