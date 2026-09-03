@@ -15,7 +15,7 @@
   + CPS Festival (Creative Problem Solving Festival) (GOLD AWARD)
 
 + 2026
-  + 대한민국학생창업주간 Reverse BMC 트랙 최우수상
+  + Reverse BMC Track, Korea Student Entrepreneurship Week (GRAND PRIZE)
   
 ### PROFILES
 + EDUCATION
